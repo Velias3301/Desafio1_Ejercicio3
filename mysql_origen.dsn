@@ -1,0 +1,9 @@
+[ODBC]
+DRIVER=MySQL ODBC 8.0 ANSI Driver
+UID=root
+USER=root
+PORT=3306
+PASSWORD=123456
+NO_SCHEMA=1
+DB=db_roaming_costarica
+DATABASE=db_roaming_costarica
